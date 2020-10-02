@@ -1,0 +1,381 @@
+created_at,code,error,MessageHash,address
+"Mon, 22 Apr 2019 01:53:24 UTC",550,5.7.1 No such user!,465a314ff801a4e70c1921a7f91a12c806211d5e,4e7dfdg@yandex.com
+"Thu, 06 Sep 2018 13:11:59 UTC",550,5.1.1 Adresse d au moins un destinataire invalide. Invalid recipient. OFR_416 [416],16bdcfe40e430f0ecd414ab820b30fea81e09aa5,agne.potel@orange.fr
+"Fri, 09 Jun 2017 19:17:51 UTC",550,Requested action not taken: mailbox unavailable,e25d0efcb41d7893d7a04adcbe0e089910698d53,ahajadeh@hotmail.com
+"Tue, 18 Jun 2019 11:49:25 UTC",550,5.5.0 Requested action not taken: mailbox unavailable. [HE1EUR01FT038.eop-EUR01.prod.protection.outlook.com],fcaeaac5c54c41fce2911106051dd20d3dd6b480,aitanadamri@hotmail.fr
+"Fri, 17 Mar 2017 20:47:50 UTC",550,550 Requested action not taken: mailbox unavailable,172c328370634eb090b37c43d0ac2da53896710a,aixandries@hotmail.fr
+"Fri, 14 Feb 2020 12:49:27 UTC",550,5.5.0 Requested action not taken: mailbox unavailable. [VI1EUR05FT003.eop-eur05.prod.protection.outlook.com],5f55fff88a35b2f42c3c2fe32ddd1828e39e295e,ak_kouloud@hotmail.fr
+"Wed, 07 Aug 2019 07:35:38 UTC",550,5.5.0 Requested action not taken: mailbox unavailable. [DB3EUR04FT022.eop-eur04.prod.protection.outlook.com],2eacdeb9a34f87fe163950661843aeaa670465c3,alan.vankwik@hotmail.fr
+"Wed, 13 Mar 2019 08:28:33 UTC",550,5.5.0 Requested action not taken: mailbox unavailable. [AM5EUR02FT024.eop-EUR02.prod.protection.outlook.com],c15d224255b303258a5245559c54826d12684b19,alice-devos@live.be
+"Tue, 03 Apr 2018 13:53:36 UTC",550,#5.1.0 Address rejected.,884938074496aa8e76a5057c9fc00828069213c3,alice.alice.arts@skynet.be
+"Mon, 29 Jul 2019 04:29:46 UTC",550,5.5.0 Requested action not taken: mailbox unavailable. [DB3EUR04FT053.eop-eur04.prod.protection.outlook.com],cb0d46b4ae1a2c3ac29a30eaf13c3ef3f37a5f50,alinalamejo-93@hotmail.it
+"Mon, 17 Feb 2020 08:37:15 UTC",550,5.5.0 Requested action not taken: mailbox unavailable. [AM5EUR02FT044.eop-EUR02.prod.protection.outlook.com],cda3939eb0f356be7ada3a61919519364dcf78fc,ally.x21@hotmail.fr
+"Sat, 01 Feb 2020 15:29:25 UTC",550,5.7.1 <allycopo@modulonet.fr>: Recipient address rejected: User unknown,73f27371bf4d034d5effb5a1f30acca99cc741c9,allycopo@modulonet.fr
+"Thu, 25 Jun 2020 13:08:17 UTC",550,"5.1.1 The email account that you tried to reach does not exist. Please try
+5.1.1 double-checking the recipient's email address for typos or
+5.1.1 unnecessary spaces. Learn more at
+5.1.1  https://support.google.com/mail/?p=NoSuchUser j25si3668982otp.55 - gsmtp",b621a69c03a57c1c0c8ef2bfdf304e4dc9a898aa,andremagera@gmail.com
+"Sat, 02 May 2020 05:13:03 UTC",5.1.1,smtp;550 5.1.1 <anne-sophie.nennen@uclouvain.be>: Recipient address rejected: unknown address,69e8c255c5da033408e1a8d5cbdd97125e44328d,anne-sophie.nennen@uclouvain.be
+"Sat, 22 Aug 2020 16:34:04 UTC",550,5.1.1 <anneclaude.turquet@bbox.fr>: Recipient address rejected: User unknown in local recipient table,62a35c0a1b63fd41f7e21a30116924dc47eda79f,anneclaude.turquet@bbox.fr
+"Wed, 20 May 2020 11:08:38 UTC",5.1.10,smtp;550 5.1.10 RESOLVER.ADR.RecipientNotFound; Recipient not found by SMTP address lookup,3dbed540fdaf793dc120cd19dbe57f246676078e,annegathoye@cirb.brussels
+"Wed, 29 Jan 2020 18:00:02 UTC",550,"5.1.1 The email account that you tried to reach does not exist. Please try
+5.1.1 double-checking the recipient's email address for typos or
+5.1.1 unnecessary spaces. Learn more at
+5.1.1  https://support.google.com/mail/?p=NoSuchUser q7si2009931qkm.187 - gsmtp",d8050f9c9117541286ee0e7ecd69ed4347ef8c79,annlaverret@gmail.com
+"Fri, 31 May 2019 18:23:08 UTC",550,5.5.0 Requested action not taken: mailbox unavailable. [SN1NAM02FT010.eop-nam02.prod.protection.outlook.com],7adc12407164178bef226e7583dce1aca9c0f2cf,anouk.crochet@outlook.com
+"Fri, 23 Aug 2019 16:40:50 UTC",550,"5.1.1 The email account that you tried to reach does not exist. Please try
+5.1.1 double-checking the recipient's email address for typos or
+5.1.1 unnecessary spaces. Learn more at
+5.1.1  https://support.google.com/mail/?p=NoSuchUser c18si2319427qtc.8 - gsmtp",5bddabcc41898d2f741502de9783cb43fc03f08f,ansisba@gmail.com
+"Sun, 05 Apr 2020 18:34:04 UTC",550,#5.1.0 Address rejected.,884938074496aa8e76a5057c9fc00828069213c3,anthony.gerlache@skynet.be
+"Mon, 03 Jun 2019 21:11:03 UTC",550,#5.1.0 Address rejected.,884938074496aa8e76a5057c9fc00828069213c3,antoine.clotman@skynet.be
+"Mon, 24 Aug 2020 10:41:17 UTC",550,"5.1.1 The email account that you tried to reach does not exist. Please try
+5.1.1 double-checking the recipient's email address for typos or
+5.1.1 unnecessary spaces. Learn more at
+5.1.1  https://support.google.com/mail/?p=NoSuchUser o14si6394458qkj.275 - gsmtp",296aa9cb6e1b5a74d125bad936def9460bd349b8,arnaudspite@gmail.com
+"Wed, 10 Apr 2019 13:13:22 UTC",550,5.5.0 Requested action not taken: mailbox unavailable. [VI1EUR04FT057.eop-eur04.prod.protection.outlook.com],f117dfd5cfcd89fe371161aefec7275633fd5ec7,atitambre@live.fr
+"Mon, 26 Aug 2019 13:28:06 UTC",550,5.5.0 Requested action not taken: mailbox unavailable. [MW2NAM12FT061.eop-nam12.prod.protection.outlook.com],9b7e76a1082e814563776b96d00522d27d8e51f1,aucelu@hotmail.com
+"Wed, 27 Mar 2019 22:34:31 UTC",550,5.5.0 Requested action not taken: mailbox unavailable. [HE1EUR04FT048.eop-eur04.prod.protection.outlook.com],edab360fff2f99af27fbd44d10541b4747258f34,audrey-love2501@hotmail.fr
+"Wed, 25 Apr 2018 12:07:32 UTC",550,"5.1.1 The email account that you tried to reach does not exist. Please try
+5.1.1 double-checking the recipient's email address for typos or
+5.1.1 unnecessary spaces. Learn more at
+5.1.1  https://support.google.com/mail/?p=NoSuchUser j81-v6si13718058ioj.154 - gsmtp",81f935fbfdce5d17964ce38e2ef7e1d919afee7b,augustin.lambote@gmail.com
+"Sun, 06 Oct 2019 10:30:36 UTC",550,5.5.0 Requested action not taken: mailbox unavailable. [HE1EUR04FT020.eop-eur04.prod.protection.outlook.com],5a22074c6496e7c108b0d01e77b06f1d8d5bcf1f,aymanosse-99@hotmail.fr
+"Sat, 15 Aug 2020 08:51:47 UTC",550,5.5.0 Requested action not taken: mailbox unavailable (S2017062302). [VE1EUR01FT009.eop-EUR01.prod.protection.outlook.com],5ca63396256cb0251b5b8107b9fe59a2e52dcba1,babou1_7@hotmail.com
+"Mon, 24 Jul 2017 16:38:28 UTC",550,Requested action not taken: mailbox unavailable,e25d0efcb41d7893d7a04adcbe0e089910698d53,barathym@hotmail.be
+"Fri, 08 May 2020 14:35:35 UTC",554,delivery error: dd This user doesn't have a yahoo.fr account (bashizimaeva@yahoo.fr) [-9] - mta1180.mail.ir2.yahoo.com,2bab0c52cde10e59de6da5e6a4892dbbd51d8822,bashizimaeva@yahoo.fr
+"Sun, 12 Apr 2020 13:37:15 UTC",554,delivery error: dd This user doesn't have a yahoo.fr account (bedidson@yahoo.fr) [-9] - mta1180.mail.ir2.yahoo.com,f86afa9e3d98b46c1d7a91d24112820a05f58c2f,bedidson@yahoo.fr
+"Wed, 06 Jul 2016 21:16:40 UTC",550,550 Requested action not taken: mailbox unavailable,172c328370634eb090b37c43d0ac2da53896710a,beksultanovaasia@hotmail.com
+"Tue, 03 Sep 2019 18:12:15 UTC",554,5.1.1 <benedictev@voo.be>: Recipient address rejected: User unknown in virtual mailbox table,90af4b93ec7e4fd5f5b6d69c7b5926478d458876,benedictev@voo.be
+"Sat, 29 Jul 2017 16:19:11 UTC",550,"5.1.1 The email account that you tried to reach does not exist. Please try
+5.1.1 double-checking the recipient's email address for typos or
+5.1.1 unnecessary spaces. Learn more at
+5.1.1  https://support.google.com/mail/?p=NoSuchUser q194si7665876itq.44 - gsmtp",aad6c909263954d8e63a745e999b206c32b321a8,brice.urlxi@gmail.com
+"Fri, 17 Jul 2020 19:15:51 UTC",498,No MX for oasis.uclouvain.be,73ed257d8a7f4d9b60779726e7ad042a448bc39a,brieredelisl@oasis.uclouvain.be
+"Sat, 01 Jul 2017 10:14:27 UTC",550,Requested action not taken: mailbox unavailable,e25d0efcb41d7893d7a04adcbe0e089910698d53,buschandre@hotmail.be
+"Thu, 16 Jul 2020 06:04:30 UTC",498,No MX for oasis.uclouvain.be,73ed257d8a7f4d9b60779726e7ad042a448bc39a,bylicki@oasis.uclouvain.be
+"Thu, 01 Sep 2016 19:32:11 UTC",550,"550 5.1.1 The email account that you tried to reach does not exist. Please try
+5.1.1 double-checking the recipient's email address for typos or
+5.1.1 unnecessary spaces. Learn more at
+5.1.1  https://support.google.com/mail/answer/6596 l24si8066669otd.292 - gsmtp",9812b72771ba1c1d14aadc230cbbca29967cd8c8,camille.schmitt3@gmail.com
+"Mon, 01 Jul 2019 07:32:38 UTC",5.5.0,smtp;550 5.5.0 Requested action not taken: mailbox unavailable.,de01637cf0075bfbe9a03524df3adae648cafa5f,camilleviatour27@hotmail.fr
+"Tue, 26 May 2020 16:03:24 UTC",554,delivery error: dd Requested mail action aborted - mta1090.mail.ir2.yahoo.com,23a39a89be06d1767f50c767fe10575701dcfb93,carla.halioua@yahoo.fr
+"Sun, 11 Aug 2019 08:14:17 UTC",550,5.5.0 Requested action not taken: mailbox unavailable. [VE1EUR02FT013.eop-EUR02.prod.protection.outlook.com],a2110681a9e05a79a41ad6f583bf6609d348835a,cecilephilippe@hotmail.be
+"Thu, 19 Mar 2020 14:50:56 UTC",550,"5.1.1 The email account that you tried to reach does not exist. Please try
+5.1.1 double-checking the recipient's email address for typos or
+5.1.1 unnecessary spaces. Learn more at
+5.1.1  https://support.google.com/mail/?p=NoSuchUser w7si1445135qtj.106 - gsmtp",6c82b1954b19c2cf74232cc2f676980f155b554c,chartro.lucie@gmail.com
+"Thu, 06 Jun 2019 11:01:54 UTC",554,"delivery error: dd Sorry, your message to cherrkar@ymail.com cannot be delivered. This mailbox is disabled (554.30). - mta4390.mail.ne1.yahoo.com",6188be62dace93be4f0a531f922cc084d4c657c6,cherrkar@ymail.com
+"Tue, 07 May 2019 17:31:46 UTC",550,5.5.0 Requested action not taken: mailbox unavailable. [AM5EUR03FT064.eop-EUR03.prod.protection.outlook.com],5cf402c00fcf12fc10ae62c16eff52f1a1e456d8,chloe-pierrard@hotmail.fr
+"Fri, 10 Apr 2020 09:09:22 UTC",550,5.1.1 <chloe.licour@laposte.net>: Adresse destinataire invalide. Invalid recipient. LPN007_416,9362f04dc055811f3f3e8d29ac1db87780feab3b,chloe.licour@laposte.net
+"Fri, 08 May 2020 00:35:28 UTC",5.4.300,"smtp;550 5.4.300 Message expired -> 451 4.4.395 Target host responded with error. -> 421 4.7.0 Too many protocol errors (6) on this connection, closing transmission channel. [DB8EUR05HT244.eop-eur05.prod.protection.outlook.com]",bb8096fd89d4767ed5b371f04c7889e390a915ba,clara-bonjean@hotmail.fr
+"Fri, 27 Apr 2018 07:48:50 UTC",550,#5.1.0 Address rejected.,884938074496aa8e76a5057c9fc00828069213c3,claudialourenco@skynet.be
+"Sat, 11 Apr 2020 07:42:15 UTC",550,"5.1.1 The email account that you tried to reach does not exist. Please try
+5.1.1 double-checking the recipient's email address for typos or
+5.1.1 unnecessary spaces. Learn more at
+5.1.1  https://support.google.com/mail/?p=NoSuchUser p55si2143920qtb.189 - gsmtp",e921f5c0b49d1a4ae373b31316ac9221051c6a0e,clemdeterwagne@gmail.com
+"Sun, 24 May 2020 08:21:59 UTC",554,delivery error: dd Requested mail action aborted - mta1198.mail.ir2.yahoo.com,8376cda1fba8224cb7b1acc85379a467e24981a9,clementinepetitelune@yahoo.fr
+"Mon, 15 Jan 2018 20:36:30 UTC",550,"5.1.1 The email account that you tried to reach does not exist. Please try
+5.1.1 double-checking the recipient's email address for typos or
+5.1.1 unnecessary spaces. Learn more at
+5.1.1  https://support.google.com/mail/?p=NoSuchUser i125si374784iof.89 - gsmtp",89911fc8ede2b0a51dcac3392d3b19c37a5e4ee1,colligno.julien12@gmail.com
+"Wed, 17 Jul 2019 08:04:22 UTC",550,Invalid Recipient <cosy98@virgilio.it>  [smtp-40.iol.local; VIR_520],b115cf9a6f9e7e6b4767cb4dc9df7c8b1f8f7b0e,cosy98@virgilio.it
+"Mon, 02 Jul 2018 14:35:43 UTC",550,5.5.0 Requested action not taken: mailbox unavailable. [BN3NAM01FT010.eop-nam01.prod.protection.outlook.com],20ed71dbaec983430ed64502e36206f30e7e3a07,criquet98@hotmail.com
+"Thu, 12 Jul 2018 07:14:47 UTC",550,5.5.0 Requested action not taken: mailbox unavailable. [VE1EUR02FT027.eop-EUR02.prod.protection.outlook.com],d5c093e350debe8490392153876699bc7fa7e777,currado96@hotmail.it
+"Mon, 08 May 2017 18:17:01 UTC",550,Requested action not taken: mailbox unavailable,e25d0efcb41d7893d7a04adcbe0e089910698d53,danfran2005@hotmail.com
+"Fri, 17 Aug 2018 14:30:37 UTC",550,Invalid Recipient <daniele.tamburrano@libero.it>  [smtp-26.iol.local; LIB_520],451f8567c3d15256667464697ed709e2256871a3,daniele.tamburrano@libero.it
+"Mon, 04 Mar 2019 11:56:37 UTC",554,delivery error: dd This user doesn't have a yahoo.fr account (davidngonga70@yahoo.fr) [-9] - mta1126.mail.ir2.yahoo.com,eb26bcaa5a750cc9dbc3a2c3cc6836796bfd0074,davidngonga70@yahoo.fr
+"Tue, 26 Nov 2019 15:33:08 UTC",550,5.5.0 Requested action not taken: mailbox unavailable. [VI1EUR04FT047.eop-eur04.prod.protection.outlook.com],ab9e30a028a5ec8bbd0bc443768efcdb576332a3,deechampsk@outlook.fr
+"Sat, 30 Apr 2016 13:11:22 UTC",550,"550 5.1.1 The email account that you tried to reach does not exist. Please try
+5.1.1 double-checking the recipient's email address for typos or
+5.1.1 unnecessary spaces. Learn more at
+5.1.1  https://support.google.com/mail/answer/6596 72si8946668oty.165 - gsmtp",8fb344720ce0d325a412b3f1d85c2b78209f2260,deroi.antoie@gmail.com
+"Wed, 29 Aug 2018 19:44:32 UTC",550,5.5.0 Requested action not taken: mailbox unavailable. [HE1EUR01FT025.eop-EUR01.prod.protection.outlook.com],c17d32e34681e7a7fda45c91aa3be993c98da069,didmumengi@hotmail.fr
+"Fri, 13 Sep 2019 11:09:45 UTC",554,delivery error: dd This user doesn't have a yahoo.fr account (diongchristos@yahoo.fr) [-9] - mta1016.mail.ir2.yahoo.com,0747a564684f6aee721abf78a541922f559fe92b,diongchristos@yahoo.fr
+"Wed, 04 Sep 2019 04:02:30 UTC",554,"delivery error: dd Sorry, your message to e.magin@yahoo.com cannot be delivered. This mailbox is disabled (554.30). - mta4240.mail.bf1.yahoo.com",873f2f5a0dcb43bfbfbb2a8427aa29504373c1fc,e.magin@yahoo.com
+"Sat, 09 May 2020 16:34:34 UTC",550,#5.1.0 Address rejected.,884938074496aa8e76a5057c9fc00828069213c3,eleonore.demaere@skynet.be
+"Sat, 03 Sep 2016 15:50:43 UTC",550,"550 5.1.1 The email account that you tried to reach does not exist. Please try
+5.1.1 double-checking the recipient's email address for typos or
+5.1.1 unnecessary spaces. Learn more at
+5.1.1  https://support.google.com/mail/answer/6596 q60si16608395ota.230 - gsmtp",0b11b29b32b60c7d7d23458899d11ba7721ddff5,elfi09@gmail.com
+"Mon, 10 Feb 2020 14:49:26 UTC",554,delivery error: dd This user doesn't have a yahoo.fr account (epiphaniembaboumbianzoue@yahoo.fr) [-9] - mta1155.mail.ir2.yahoo.com,9e8bcbf0a814b210173b688c7de42e102604f240,epiphaniembaboumbianzoue@yahoo.fr
+"Mon, 03 Sep 2018 15:12:52 UTC",550,#5.1.0 Address rejected.,884938074496aa8e76a5057c9fc00828069213c3,eric.deceuninck@skynet.be
+"Sun, 11 Aug 2019 16:11:20 UTC",550,"5.1.1 The email account that you tried to reach does not exist. Please try
+5.1.1 double-checking the recipient's email address for typos or
+5.1.1 unnecessary spaces. Learn more at
+5.1.1  https://support.google.com/mail/?p=NoSuchUser g34si46855170qvg.183 - gsmtp",8d4baea3f4f345e2aaff3fad5d42f5901586fea1,eugeniethauvoye99@gmail.com
+"Mon, 20 Apr 2020 10:51:23 UTC",550,5.5.0 Requested action not taken: mailbox unavailable (S2017062302). [HE1EUR04FT020.eop-eur04.prod.protection.outlook.com],229a5e48022f905e481f0a249949a23f1c9b255c,fabienne.22@live.be
+"Tue, 30 Oct 2018 15:31:36 UTC",554,delivery error: dd Requested mail action aborted - mta1094.mail.ir2.yahoo.com,a69c649349ce29984de0fcc5f40fb573a27d83ce,fadilahmed24@yahoo.fr
+"Fri, 16 Sep 2016 15:40:09 UTC",550,550 Requested action not taken: mailbox unavailable,172c328370634eb090b37c43d0ac2da53896710a,fanny.bruyere@outlook.be
+"Fri, 23 Mar 2018 15:01:03 UTC",550,5.5.0 Requested action not taken: mailbox unavailable. [AM5EUR02FT045.eop-EUR02.prod.protection.outlook.com],a7fc8f5723907f2f7753a0de024a6b00de58a749,fanny.manondc@hotmail.fr
+"Sun, 18 Aug 2019 13:17:20 UTC",550,5.1.1 <feradraco@freemail.hu>: Recipient address rejected: u'SMTP service is disabled for this account. AccountId: 15912577. Reason: The account is DISABLED',cf23dcc72b1e8400506c464ff81bffc3a21358e0,feradraco@freemail.hu
+"Sat, 10 Aug 2019 12:04:14 UTC",550,5.5.0 Requested action not taken: mailbox unavailable. [PU1APC01FT061.eop-APC01.prod.protection.outlook.com],b3bfcd69ba68758c96b3609f7fb2e0a0e6c4e5e7,fionascaletta@outlook.be
+"Wed, 12 Sep 2018 11:05:56 UTC",550,5.5.0 Requested action not taken: mailbox unavailable. [SN1NAM01FT041.eop-nam01.prod.protection.outlook.com],9294200c10e9f54f8f6e2641b400425aee5a9357,floiran.frippiat@hotmail.com
+"Tue, 14 Apr 2020 06:20:53 UTC",550,5.1.1 <Flust1953@einrot.com>: Recipient address rejected: User unknown,6730df89509cb5c75143413b147758b60edc2269,flust1953@einrot.com
+"Tue, 23 Apr 2019 12:46:32 UTC",554,"delivery error: dd Sorry, your message to fokouoabdel@yahoo.fr cannot be delivered. This mailbox is disabled (554.30). - mta1140.mail.ir2.yahoo.com",a708999e93c272189cde82bfdb33e0027aef1bb1,fokouoabdel@yahoo.fr
+"Thu, 06 Sep 2018 17:58:51 UTC",550,5.1.1 Adresse d au moins un destinataire invalide. Invalid recipient. OFR_416 [416],16bdcfe40e430f0ecd414ab820b30fea81e09aa5,franco.dalesssandro@wanadoo.fr
+"Mon, 28 Jan 2019 16:06:54 UTC",554,delivery error: dd This user doesn't have a yahoo.com account (franoise.vandenneucker@yahoo.com) [-9] - mta4398.mail.bf1.yahoo.com,8d51e84c136af4a05c07a12c1774a0dc665a1468,franoise.vandenneucker@yahoo.com
+"Mon, 23 Jul 2018 14:46:47 UTC",550,"5.1.1 The email account that you tried to reach does not exist. Please try
+5.1.1 double-checking the recipient's email address for typos or
+5.1.1 unnecessary spaces. Learn more at
+5.1.1  https://support.google.com/mail/?p=NoSuchUser y131-v6si44602qka.286 - gsmtp",a8f176d56cf3a42dad366a7a9a6eabc8df408cb2,gabrilleluciedubois@gmail.com
+"Mon, 09 Jul 2018 20:21:06 UTC",550,5.5.0 Requested action not taken: mailbox unavailable. [VE1EUR03FT018.eop-EUR03.prod.protection.outlook.com],ce70b9af8b81fc895461a124b4b50cb015d3e008,gegetasiaux@hotmail.fr
+"Tue, 28 Jun 2016 19:56:37 UTC",550,550 Requested action not taken: mailbox unavailable,172c328370634eb090b37c43d0ac2da53896710a,george10@hotmail.com
+"Wed, 21 Aug 2019 14:55:57 UTC",550,5.5.0 Requested action not taken: mailbox unavailable. [HK2APC01FT035.eop-APC01.prod.protection.outlook.com],0894a2442dd709c2db730baf7ebec13d6ba1fdb7,ginilovejesse@hotmail.it
+"Tue, 16 Jul 2019 06:34:06 UTC",550,"5.1.1 The email account that you tried to reach does not exist. Please try
+5.1.1 double-checking the recipient's email address for typos or
+5.1.1 unnecessary spaces. Learn more at
+5.1.1  https://support.google.com/mail/?p=NoSuchUser r19si9867052qtr.290 - gsmtp",cadb89058055a90e7de76a4bb55e610c0d101caf,giovanni.fava@studenti.unitn.it
+"Fri, 09 Mar 2018 13:35:01 UTC",550,5.5.0 Requested action not taken: mailbox unavailable. [AM5EUR02FT045.eop-EUR02.prod.protection.outlook.com],a7fc8f5723907f2f7753a0de024a6b00de58a749,gloriadevolder1999@outlook.fr
+"Sun, 01 Sep 2019 18:56:36 UTC",554,delivery error: dd This user doesn't have a yahoo.be account (guiaboustephy@yahoo.be) [-9] - mta1145.mail.ir2.yahoo.com,3413f678ba45de9e54f49f9b19af513033ff9ff3,guiaboustephy@yahoo.be
+"Thu, 01 Aug 2019 18:08:09 UTC",5.0.0,smtp; 552 5.2.2 <guillaume_ntoineco_if@pop.dot5hosting.com> Quota exceeded (mailbox for user is full),49a9286a0a3bb554b2628c00c4e1d255d63bc3c3,guillaume@ntoine.com
+"Mon, 26 Jun 2017 11:39:10 UTC",550,Requested action not taken: mailbox unavailable,e25d0efcb41d7893d7a04adcbe0e089910698d53,guillaumen.navette@outlook.com
+"Mon, 24 Aug 2020 17:11:32 UTC",550,"5.1.1 The email account that you tried to reach does not exist. Please try
+5.1.1 double-checking the recipient's email address for typos or
+5.1.1 unnecessary spaces. Learn more at
+5.1.1  https://support.google.com/mail/?p=NoSuchUser r4si3775502qtu.268 - gsmtp",6fe7cd506f1ebf143a378030a23cee7dd6dec069,gustin.lou@arans.be
+"Wed, 17 Apr 2019 21:21:01 UTC",550,5.5.0 Requested action not taken: mailbox unavailable. [AM5EUR02FT005.eop-EUR02.prod.protection.outlook.com],1a1cbdd033b0ca4134f4b85b9fea7b90d1978936,guy.doune@live.fr
+"Sun, 10 Feb 2019 15:15:13 UTC",550,5.5.0 Requested action not taken: mailbox unavailable. [DB3EUR04FT049.eop-eur04.prod.protection.outlook.com],e56b4cd1620fe896688ca8a282fcbfb08dc7b609,haanae-d@hotmail.fr
+"Fri, 23 Nov 2018 12:31:38 UTC",550,"5.1.1 The email account that you tried to reach does not exist. Please try
+5.1.1 double-checking the recipient's email address for typos or
+5.1.1 unnecessary spaces. Learn more at
+5.1.1  https://support.google.com/mail/?p=NoSuchUser 23si6574822qtn.80 - gsmtp",ee0d483bb8a1cd8926aaf97d3e4b09d90c39b9c0,hell.hell.kimberley@gmail.com
+"Wed, 20 Mar 2019 10:19:37 UTC",554,delivery error: dd This user doesn't have a yahoo.fr account (heloisekamba@yahoo.fr) [-9] - mta1080.mail.ir2.yahoo.com,285d32fc3ed53f84f309849cf7162621c6efd8c4,heloisekamba@yahoo.fr
+"Thu, 13 Feb 2020 11:39:45 UTC",5.5.0,smtp;550 5.5.0 Requested action not taken: mailbox unavailable.,de01637cf0075bfbe9a03524df3adae648cafa5f,hermansmanon@outlook.be
+"Thu, 13 Feb 2020 11:33:29 UTC",550,5.5.0 Requested action not taken: mailbox unavailable. [BN8NAM12FT060.eop-nam12.prod.protection.outlook.com],85bb6f7b4882bb3252556a3a70c7ba6d497f46c7,hermansmanon@outlook.com
+"Sun, 07 Jul 2019 19:04:04 UTC",550,5.5.0 Requested action not taken: mailbox unavailable. [VI1EUR04FT032.eop-eur04.prod.protection.outlook.com],4d9d68d5d628dcd6f29734a784708001e0c3ecbb,hmsasa@hotmail.be
+"Thu, 05 Mar 2020 06:44:39 UTC",550,5.5.0 Requested action not taken: mailbox unavailable. [AM6EUR05FT031.eop-eur05.prod.protection.outlook.com],57ecd2f384159f1789cd12f97e26fa9f9c80748c,hortense.gosselin@hotmail.fr
+"Wed, 24 Jun 2020 15:39:29 UTC",550,5.1.1 <hugo.dubois0@gamil.com>: Recipient address rejected: User unknown in virtual alias table,b479ea5df497e9294cf103c906926347143d0dcd,hugo.dubois0@gamil.com
+"Mon, 08 Jun 2020 20:17:24 UTC",554,delivery error: dd Not a valid recipient - atlas108.free.mail.ir2.yahoo.com,a31f71494627dc3d9c08addef6dc306ed641a7a6,hugoaschbacher@yahoo.fr
+"Sun, 23 Jun 2019 15:31:45 UTC",550,"5.1.1 The email account that you tried to reach does not exist. Please try
+5.1.1 double-checking the recipient's email address for typos or
+5.1.1 unnecessary spaces. Learn more at
+5.1.1  https://support.google.com/mail/?p=NoSuchUser l5si4704365qkb.277 - gsmtp",4756c8f7a29015d7941ea8ed55aa0fed02920cb8,ila.macchia@gmail.com
+"Sun, 16 Sep 2018 23:34:13 UTC",550,5.5.0 Requested action not taken: mailbox unavailable. [BN3NAM01FT064.eop-nam01.prod.protection.outlook.com],fdc7e242c9c56c6e72440f878a0d0175a682ade1,immortal977@windowslive.com
+"Sun, 05 Jul 2020 13:07:12 UTC",550,5.1.1 <inphamouche101@icloud.com>: user does not exist,575a84b6d1795c21f21011876199b98f3a674113,inphamouche101@icloud.com
+"Sun, 05 Apr 2020 19:28:44 UTC",550,5.5.0 Requested action not taken: mailbox unavailable. [VI1EUR05FT063.eop-eur05.prod.protection.outlook.com],e2831f5c14b1ad6b32b1345114a7948a630fdb83,jacobemma@hotmail.fr
+"Wed, 13 Feb 2019 15:40:20 UTC",554,delivery error: dd This user doesn't have a rocketmail.com account (jaenna.jacobs@rocketmail.com) [-9] - mta4155.mail.ne1.yahoo.com,e0ad996fc2fb16c741b2b43cf369d2531075c7e3,jaenna.jacobs@rocketmail.com
+"Sat, 03 Sep 2016 13:24:43 UTC",550,"550 5.1.1 The email account that you tried to reach does not exist. Please try
+5.1.1 double-checking the recipient's email address for typos or
+5.1.1 unnecessary spaces. Learn more at
+5.1.1  https://support.google.com/mail/answer/6596 t3si16368062oif.194 - gsmtp",98540c835ff79f42ddd75e6c065ca07f7edcb3ca,jean-baptiste.champmartin@gmail.com
+"Sun, 20 Sep 2020 12:49:31 UTC",550,Message was not accepted -- invalid mailbox.  Local mailbox jesuisbebe@mail.ru is unavailable: user is terminated,1c0c9af02fb637a7b6cd1891793b11c91c6eddb1,jesuisbebe@mail.ru
+"Wed, 24 Jul 2019 03:10:16 UTC",5.5.0,smtp;550 5.5.0 Requested action not taken: mailbox unavailable.,de01637cf0075bfbe9a03524df3adae648cafa5f,joel_benfica1@hotmail.com
+"Tue, 11 Aug 2020 20:43:51 UTC",550,"5.1.1 The email account that you tried to reach does not exist. Please try
+5.1.1 double-checking the recipient's email address for typos or
+5.1.1 unnecessary spaces. Learn more at
+5.1.1  https://support.google.com/mail/?p=NoSuchUser i20si17228936qkn.228 - gsmtp",ffd626003b4ce231199ac3a9b76335bf4c1c021e,josguypouki18@gmail.com
+"Wed, 12 Dec 2018 13:24:34 UTC",550,5.5.0 Requested action not taken: mailbox unavailable. [HK2APC01FT051.eop-APC01.prod.protection.outlook.com],36809ddefdb90bb2e77de8143acb1d14afa6f728,joya.estefan@hotmail.com
+"Tue, 24 Jul 2018 11:46:06 UTC",550,5.5.0 Requested action not taken: mailbox unavailable. [AM5EUR03FT046.eop-EUR03.prod.protection.outlook.com],ff2e82e4cad637a13a77260eb07418e6167d842c,julescorstjens@live.be
+"Wed, 18 Apr 2018 22:23:19 UTC",550,"5.1.1 The email account that you tried to reach does not exist. Please try
+5.1.1 double-checking the recipient's email address for typos or
+5.1.1 unnecessary spaces. Learn more at
+5.1.1  https://support.google.com/mail/?p=NoSuchUser k189-v6si2122656itk.98 - gsmtp",c78bb9c0fc003b9c3ae4937bf0b5eb3f9d499375,julesdcsdef@gmail.com
+"Mon, 13 Jul 2020 12:42:01 UTC",498,No MX for gmal.com,c59688acb22b1b7961fef2c47c71f7fc899711f4,julie.antoine1999@gmal.com
+"Fri, 14 Apr 2017 18:15:20 UTC",554,delivery error: dd This user doesn't have a yahoo.com account (juliya1233@yahoo.com) [-5] - mta1453.mail.bf1.yahoo.com,c0305483269b07c1cc2ecb95f2900d49d7d381e3,juliya1233@yahoo.com
+"Wed, 12 Jun 2019 10:59:37 UTC",550,5.5.0 Requested action not taken: mailbox unavailable. [VI1EUR04FT006.eop-eur04.prod.protection.outlook.com],7b45c2e500c4b469867768f5b406b4b1bd70c439,justinejanti@live.be
+"Sat, 07 Jul 2018 19:04:06 UTC",554,delivery error: dd This user doesn't have a yahoo.fr account (kadiakogedlan@yahoo.fr) [0] - mta1044.mail.ir2.yahoo.com,63285e71c8d7a4d86412550efb295dbbef7b3d65,kadiakogedlan@yahoo.fr
+"Tue, 03 Mar 2020 10:30:16 UTC",554,"delivery error: dd Sorry, your message to kieran_luc0304@yahoo.com cannot be delivered. This mailbox is disabled (554.30). - mta4200.mail.gq1.yahoo.com",83e92277a6aef72579d733b28e7168e393de90e0,kieran_luc0304@yahoo.com
+"Mon, 29 Apr 2019 12:24:02 UTC",554,"delivery error: dd Sorry, your message to kiikiito@yahoo.com cannot be delivered. This mailbox is disabled (554.30). - mta4363.mail.bf1.yahoo.com",2c604bc28b610b65c7d4ac807dd3c0e1dd4e4152,kiikiito@yahoo.com
+"Tue, 10 Sep 2019 10:14:18 UTC",554,"delivery error: dd Sorry, your message to kilarifoki@yahoo.ca cannot be delivered. This mailbox is disabled (554.30). - mta4313.mail.bf1.yahoo.com",336f295beae8308ef8d89318a394e4fee962649d,kilarifoki@yahoo.ca
+"Fri, 27 Sep 2019 07:06:34 UTC",550,5.5.0 Requested action not taken: mailbox unavailable. [MW2NAM12FT033.eop-nam12.prod.protection.outlook.com],2b30ed2bf6991f940faeac171af8e347985b2971,king-soufiane@hotmail.com
+"Sun, 02 Sep 2018 17:59:07 UTC",550,5.5.0 Requested action not taken: mailbox unavailable. [VE1EUR02FT019.eop-EUR02.prod.protection.outlook.com],8252ef58f6c63f364bbd08a3dcb033493d3719ed,kirbylerus@live.fr
+"Sat, 02 Sep 2017 11:55:18 UTC",550,"5.1.1 The email account that you tried to reach does not exist. Please try
+5.1.1 double-checking the recipient's email address for typos or
+5.1.1 unnecessary spaces. Learn more at
+5.1.1  https://support.google.com/mail/?p=NoSuchUser g20si1211448qtb.129 - gsmtp",97e12e87f610520d439b54969849e87990efd3f3,kot.lln@gmail.com
+"Tue, 29 May 2018 09:07:03 UTC",550,5.5.0 Requested action not taken: mailbox unavailable. [VE1EUR01FT036.eop-EUR01.prod.protection.outlook.com],7022b6aff8c1fef1c5dd375e6fca8ce9d66c78e8,kotaliege@outlook.fr
+"Thu, 03 Aug 2017 10:46:06 UTC",550,"5.1.1 The email account that you tried to reach does not exist. Please try
+5.1.1 double-checking the recipient's email address for typos or
+5.1.1 unnecessary spaces. Learn more at
+5.1.1  https://support.google.com/mail/?p=NoSuchUser j100si34148260ioo.262 - gsmtp",4506c776cdcfb6a504f7d4ba65a917479663d8d3,kotbiereau@gmail.com
+"Thu, 16 Jan 2020 14:07:29 UTC",550,5.5.0 Requested action not taken: mailbox unavailable. [HE1EUR04FT045.eop-eur04.prod.protection.outlook.com],2bad9280a612b8cf772b48eff38ef0356728099b,kotlln@hotmail.com
+"Wed, 23 May 2018 15:05:04 UTC",554,delivery error: dd This user doesn't have a yahoo.fr account (l_homme_du_millenaire@yahoo.fr) [-5] - mta1184.mail.ir2.yahoo.com,ff8e3f7f81ef12605dc4e62df7704091c743afef,l_homme_du_millenaire@yahoo.fr
+"Tue, 26 Nov 2019 14:28:27 UTC",550,5.5.0 Requested action not taken: mailbox unavailable. [HK2APC01FT004.eop-APC01.prod.protection.outlook.com],84e5190604513f68c17288901699c0346d2707e4,laetitia.tyl.descombes@hotmail.fr
+"Tue, 07 May 2019 07:30:19 UTC",550,5.5.0 Requested action not taken: mailbox unavailable. [VI1EUR04FT051.eop-eur04.prod.protection.outlook.com],d81a755b73439bffcef47e4631b74c604cbfa260,lapetite_lilo@hotmail.fr
+"Mon, 10 Dec 2018 20:38:02 UTC",550,"5.1.1 The email account that you tried to reach does not exist. Please try
+5.1.1 double-checking the recipient's email address for typos or
+5.1.1 unnecessary spaces. Learn more at
+5.1.1  https://support.google.com/mail/?p=NoSuchUser s4si7626679qtd.227 - gsmtp",cd52030eac3f478a9a04adef8c25b9983e3017a9,lauryn144.lauryn144.vdm@gmail.com
+"Sun, 06 Sep 2020 13:42:02 UTC",550,"5.1.1 The email account that you tried to reach does not exist. Please try
+5.1.1 double-checking the recipient's email address for typos or
+5.1.1 unnecessary spaces. Learn more at
+5.1.1  https://support.google.com/mail/?p=NoSuchUser p2si621654oip.46 - gsmtp",c0c0aab304e381d244a91b0d50d88da61d101731,lcasf@gmail.com
+"Mon, 09 Jul 2018 20:20:06 UTC",550,Requested action not taken: mailbox unavailable,e25d0efcb41d7893d7a04adcbe0e089910698d53,lena.wallemacq@caramail.com
+"Wed, 12 Apr 2017 09:07:38 UTC",550,5.1.1 <leonie.moreau@uclouvain.be>: Recipient address rejected: unknown address,39e827bc06a3fc9e4cf9550fd4b9b2df099ceb2a,leonie.moreau@uclouvain.be
+"Tue, 02 Jun 2020 20:18:33 UTC",550,"5.1.1 The email account that you tried to reach does not exist. Please try
+5.1.1 double-checking the recipient's email address for typos or
+5.1.1 unnecessary spaces. Learn more at
+5.1.1  https://support.google.com/mail/?p=NoSuchUser r8si1901186qtp.344 - gsmtp",2b969964fee80bb059db03cf527353163f2b79a1,libambuhotmail@gmail.com
+"Thu, 04 Apr 2019 13:51:19 UTC",550,5.5.0 Requested action not taken: mailbox unavailable. [DB3EUR04FT017.eop-eur04.prod.protection.outlook.com],759c821274fd5fde78bc40b41ab7db8120a02e8e,ligabuina@hotmail.it
+"Thu, 01 Mar 2018 21:00:12 UTC",550,5.5.0 Requested action not taken: mailbox unavailable. [VE1EUR01FT032.eop-EUR01.prod.protection.outlook.com],d432b6b792d71e98ad3dbeb0f1c55d0aae08a15c,linda-2009@hotmail.be
+"Tue, 27 Aug 2019 14:11:25 UTC",550,"5.1.1 The email account that you tried to reach does not exist. Please try
+5.1.1 double-checking the recipient's email address for typos or
+5.1.1 unnecessary spaces. Learn more at
+5.1.1  https://support.google.com/mail/?p=NoSuchUser u12si9861070qvf.99 - gsmtp",89794d8beb043025a5c88f33ee226df1e9df8c3c,llisaobeirneclisson@gmail.com
+"Sat, 22 Aug 2020 11:44:04 UTC",550,5.5.0 Requested action not taken: mailbox unavailable (S2017062302). [DM3NAM05FT024.eop-nam05.prod.protection.outlook.com],e02e214d60b231237ef90107ade69004e84ed5bd,lorene.beckrich@outlook.com
+"Thu, 28 Jun 2018 11:59:05 UTC",554,delivery error: dd This user doesn't have a yahoo.it account (lorvoz@yahoo.it) [0] - mta1056.mail.ir2.yahoo.com,937eca5ad1465fe67909cc11311cc4995a7c5f58,lorvoz@yahoo.it
+"Mon, 19 Mar 2018 09:09:07 UTC",550,5.5.0 Requested action not taken: mailbox unavailable. [AM5EUR02FT031.eop-EUR02.prod.protection.outlook.com],3a1927cc9cdfcad12890f18bb24270c52cc16554,louiz-on@hotmail.com
+"Mon, 12 Mar 2018 10:03:06 UTC",550,"5.1.1 The email account that you tried to reach does not exist. Please try
+5.1.1 double-checking the recipient's email address for typos or
+5.1.1 unnecessary spaces. Learn more at
+5.1.1  https://support.google.com/mail/?p=NoSuchUser t129si5500846iod.65 - gsmtp",7f00f7cfc128f7a29dfd23255e4ac3c064832772,lucas.poos@gmail.com
+"Tue, 04 Jun 2019 13:29:07 UTC",511,5.1.1 <m_fock05@ewetel.net>: Recipient address rejected: user unknown,033caf168cc4e1ca69d81b13f5fc3289594c8740,m_fock05@ewetel.net
+"Fri, 24 Apr 2020 18:26:41 UTC",550,#5.1.0 Address rejected.,884938074496aa8e76a5057c9fc00828069213c3,ma201379@skynet.be
+"Mon, 06 Mar 2017 08:03:43 UTC",550,"550 5.1.1 The email account that you tried to reach does not exist. Please try
+5.1.1 double-checking the recipient's email address for typos or
+5.1.1 unnecessary spaces. Learn more at
+5.1.1  https://support.google.com/mail/?p=NoSuchUser y2si14932832qta.108 - gsmtp",c4067a0dd7214b9d6cad8a171140cd9e0158c9dd,madelein.beriot@student.uclouvain.be
+"Sun, 02 Sep 2018 14:14:50 UTC",550,Requested action not taken: mailbox unavailable,e25d0efcb41d7893d7a04adcbe0e089910698d53,magali.elias1@gmx.fr
+"Thu, 10 Aug 2017 13:11:20 UTC",554,delivery error: dd This user doesn't have a yahoo.fr account (maieagneslogeot@yahoo.fr) [0] - mta1181.mail.ir2.yahoo.com,9f664026ccb664b672e59bb27be3dd65112c07b3,maieagneslogeot@yahoo.fr
+"Sun, 26 Jul 2020 14:42:18 UTC",550,#5.1.0 Address rejected.,884938074496aa8e76a5057c9fc00828069213c3,maite.megido@skynet.be
+"Mon, 08 Jul 2019 14:49:45 UTC",550,"5.2.1 The email account that you tried to reach is disabled. Learn more at
+5.2.1  https://support.google.com/mail/?p=DisabledUser i3si9718180qvc.141 - gsmtp",936597274a9718209fddb24c5643e706d6f7e586,mar.alexander@ccro.be
+"Sun, 02 Sep 2018 10:06:48 UTC",550,5.1.1 Adresse d au moins un destinataire invalide. Invalid recipient. OFR_416 [416],16bdcfe40e430f0ecd414ab820b30fea81e09aa5,marc.sylvieduuthoit@wanadoo.fr
+"Tue, 28 May 2019 19:15:45 UTC",550,5.5.0 Requested action not taken: mailbox unavailable. [VE1EUR02FT013.eop-EUR02.prod.protection.outlook.com],a2110681a9e05a79a41ad6f583bf6609d348835a,marcdehaeng@hotmail.com
+"Mon, 05 Mar 2018 14:58:00 UTC",550,5.5.0 Requested action not taken: mailbox unavailable. [BL2NAM02FT019.eop-nam02.prod.protection.outlook.com],258a2f6a1f1e05ccadef59f44abad6a9475a2571,margaux.steenberghs@hotmail.com
+"Tue, 10 Apr 2018 19:48:09 UTC",554,"Sorry, no mailbox here by that name. (#5.1.1)",64e7115e9b292d807e61fe641530afd9e1153cb4,marie.sourdeau@uliege.be
+"Mon, 20 Aug 2018 17:48:11 UTC",550,"5.1.1 The email account that you tried to reach does not exist. Please try
+5.1.1 double-checking the recipient's email address for typos or
+5.1.1 unnecessary spaces. Learn more at
+5.1.1  https://support.google.com/mail/?p=NoSuchUser q22-v6si4176131qte.344 - gsmtp",c74328815a14507c08fec5c33328673d32bd0887,mariebuhr@gmail.com
+"Mon, 12 Aug 2019 16:23:34 UTC",554,delivery error: dd This user doesn't have a yahoo.fr account (mariecaekelberghs@yahoo.fr) [-9] - mta1140.mail.ir2.yahoo.com,1da23a8d622b7773e5686eb2e3c160d87b4b038c,mariecaekelberghs@yahoo.fr
+"Thu, 07 Jul 2016 19:03:38 UTC",550,550 Requested action not taken: mailbox unavailable,172c328370634eb090b37c43d0ac2da53896710a,mariejospehmarie@outlook.com
+"Mon, 06 Apr 2020 16:06:27 UTC",550,5.5.0 Requested action not taken: mailbox unavailable. [HE1EUR04FT023.eop-eur04.prod.protection.outlook.com],b96082cea2590363fc3fa94a4ace1b540f9c4dfe,marion.654@outlook.com
+"Wed, 20 Mar 2019 08:32:36 UTC",550,5.5.0 Requested action not taken: mailbox unavailable. [CY1NAM02FT054.eop-nam02.prod.protection.outlook.com],18ba7338bf0e9826b980e83483315cf884206892,marjochipie@hotmail.com
+"Mon, 19 Sep 2016 13:49:18 UTC",550,550 Requested action not taken: mailbox unavailable,172c328370634eb090b37c43d0ac2da53896710a,martin.baelden@hotmail.be
+"Mon, 24 Aug 2020 14:19:46 UTC",550,5.4.1 Recipient address rejected: Access denied. AS(201806281) [DB5EUR03FT013.eop-EUR03.prod.protection.outlook.com],5672d77e973be7bf2ac84b33d7326dd6ea9a90a4,martin.dejager@student.uclouvain.be
+"Mon, 18 Mar 2019 17:16:22 UTC",550,5.5.0 Requested action not taken: mailbox unavailable. [VE1EUR02FT021.eop-EUR02.prod.protection.outlook.com],2d0cf785664904845984e656d03cb4b4d00e5b0f,mat.hellokitty@hotmail.com
+"Sat, 04 Aug 2018 12:30:22 UTC",550,5.5.0 Requested action not taken: mailbox unavailable. [VE1EUR02FT040.eop-EUR02.prod.protection.outlook.com],dfc8209db6831afa1db59031792d787d3ffad531,math-milou@hotmail.fr
+"Thu, 06 Apr 2017 16:47:34 UTC",550,Requested action not taken: mailbox unavailable,e25d0efcb41d7893d7a04adcbe0e089910698d53,mathh2@hotmail.com
+"Sun, 28 Jul 2019 13:32:16 UTC",550,#5.1.0 Address rejected.,884938074496aa8e76a5057c9fc00828069213c3,mathiasclaude@skynet.be
+"Mon, 19 Aug 2019 14:59:14 UTC",550,5.5.0 Requested action not taken: mailbox unavailable. [HK2APC01FT038.eop-APC01.prod.protection.outlook.com],81697dbb3a2294c8885c0af909075d213c662cd6,mathilde--r@hotmail.fr
+"Mon, 01 Aug 2016 16:55:04 UTC",550,"550 5.1.1 The email account that you tried to reach does not exist. Please try
+5.1.1 double-checking the recipient's email address for typos or
+5.1.1 unnecessary spaces. Learn more at
+5.1.1  https://support.google.com/mail/answer/6596 a32si20297591otc.218 - gsmtp",0be3dddb758ddd2ec7e57af4f50b890d1338214f,mathildegeremo@gmail.com
+"Sun, 11 Aug 2019 13:48:36 UTC",550,5.5.0 Requested action not taken: mailbox unavailable. [DB5EUR01FT038.eop-EUR01.prod.protection.outlook.com],a4ce5c1d578befebef51a8df2aae54d86fdd34e2,max.bonaventure@live.be
+"Tue, 03 Jul 2018 08:42:28 UTC",550,#5.1.0 Address rejected.,884938074496aa8e76a5057c9fc00828069213c3,maxime.heymans@ulb.ac.be
+"Thu, 01 Sep 2016 10:08:14 UTC",550,550 Requested action not taken: mailbox unavailable,172c328370634eb090b37c43d0ac2da53896710a,mcoura@live.fr
+"Thu, 05 Jul 2018 18:41:25 UTC",550,5.5.0 Requested action not taken: mailbox unavailable. [SN1NAM04FT048.eop-NAM04.prod.protection.outlook.com],d1786a3980119f11f1b02b1428e9d86e96bf555b,miakaa@hotmail.com
+"Fri, 14 Dec 2018 17:16:37 UTC",550,5.5.0 Requested action not taken: mailbox unavailable. [PU1APC01FT112.eop-APC01.prod.protection.outlook.com],38426de67345e6f84552c4bffe2beb18ff061618,mina970@live.fr
+"Fri, 28 Jun 2019 14:26:57 UTC",550,<minamimi-u0w0u@ezweb.ne.jp>: User unknown,512da7b139e100df71d2ec739658bcfb04ffd59f,minamimi-u0w0u@ezweb.ne.jp
+"Sat, 21 Sep 2019 14:23:00 UTC",550,5.5.0 Requested action not taken: mailbox unavailable. [SN1NAM04FT017.eop-NAM04.prod.protection.outlook.com],3fa86dba2a0712900b6aa97fdacfa8036efb8dee,mireille.steinmtez06@outlook.com
+"Sun, 10 Jul 2016 15:53:15 UTC",550,550 Requested action not taken: mailbox unavailable,172c328370634eb090b37c43d0ac2da53896710a,misonalix@mail.com
+"Mon, 02 Jan 2017 08:29:07 UTC",550,550 Requested action not taken: mailbox unavailable,172c328370634eb090b37c43d0ac2da53896710a,mnicamuando@hotmail.com
+"Fri, 17 Jul 2020 13:24:19 UTC",550,5.5.0 Requested action not taken: mailbox unavailable (S2017062302). [DB8EUR06FT007.eop-eur06.prod.protection.outlook.com],4cef94b384eee10f546bcf1c755e411f267171e5,moriciconcep@live.be
+"Fri, 17 Jul 2020 13:46:27 UTC",550,5.5.0 Requested action not taken: mailbox unavailable (S2017062302). [AM7EUR06FT016.eop-eur06.prod.protection.outlook.com],cea3ea185b992d40fe5d4c7d88807d1d7f6bf3de,moriciconcpet@live.be
+"Sat, 06 Apr 2019 08:56:33 UTC",554,delivery error: dd This user doesn't have a yahoo.fr account (morinaureliea603@yahoo.fr) [-9] - mta1050.mail.ir2.yahoo.com,262e648c7ce37b10c461275841ab85337b7de223,morinaureliea603@yahoo.fr
+"Thu, 27 Feb 2020 19:37:59 UTC",550,#5.1.0 Address rejected.,884938074496aa8e76a5057c9fc00828069213c3,murielle.maqua@belgacom.net
+"Sat, 15 Aug 2020 12:30:01 UTC",550,"5.1.1 The email account that you tried to reach does not exist. Please try
+5.1.1 double-checking the recipient's email address for typos or
+5.1.1 unnecessary spaces. Learn more at
+5.1.1  https://support.google.com/mail/?p=NoSuchUser p18si6978244qvt.125 - gsmtp",f120d14f2e073b75b237f5bb245eea70b84404da,mutielle.dhondt@gmail.com
+"Sat, 14 Sep 2019 18:46:59 UTC",554,5.7.1 Account disabled,820ff760b3f8e66c8914ae4339d6626dc8313970,nadege@soleil.be
+"Fri, 24 Jun 2016 10:06:51 UTC",550,550 Requested action not taken: mailbox unavailable,172c328370634eb090b37c43d0ac2da53896710a,nadinebotte1300@hotmail.com
+"Wed, 07 Sep 2016 08:49:14 UTC",550,550 Requested action not taken: mailbox unavailable,172c328370634eb090b37c43d0ac2da53896710a,najetila@hotmail.be
+"Thu, 25 Jul 2019 12:15:56 UTC",550,5.5.0 Requested action not taken: mailbox unavailable. [VE1EUR01FT037.eop-EUR01.prod.protection.outlook.com],8afb2df32bac6aa168d27fa1aef408281f9479c2,nakaeddy@live.fr
+"Wed, 05 Aug 2020 08:31:56 UTC",554,delivery error: dd Not a valid recipient - atlas203.free.mail.ir2.yahoo.com,0b1a1adc62a089a285839ca4479e48bc8a96a65e,nancy.teugels@yahoo.fr
+"Mon, 22 Jun 2020 13:13:21 UTC",550,5.5.0 Requested action not taken: mailbox unavailable (S2017062302). [DB8EUR06FT013.eop-eur06.prod.protection.outlook.com],18a87e6aa064de59a6f441a289a1aa53ef9f87c0,nathanlepgmdubg@hotmail.fr
+"Wed, 26 Jul 2017 20:52:53 UTC",550,"5.1.1 The email account that you tried to reach does not exist. Please try
+5.1.1 double-checking the recipient's email address for typos or
+5.1.1 unnecessary spaces. Learn more at
+5.1.1  https://support.google.com/mail/?p=NoSuchUser e67si10333285iod.177 - gsmtp",a47cfa0263e778336f319f18f3e9a6ebfaf41cbf,nathoas1999@gmail.com
+"Fri, 21 Sep 2018 11:16:10 UTC",554,delivery error: dd Requested mail action aborted - mta1042.mail.ir2.yahoo.com,3c5eb33b0823947e2d7a9f18a9f9b25651f6e5b9,ndjanasatinalinda@yahoo.fr
+"Mon, 05 Nov 2018 08:28:28 UTC",550,5.5.0 Requested action not taken: mailbox unavailable. [DB5EUR01FT052.eop-EUR01.prod.protection.outlook.com],1b441aaf625b2a87cac6ceb648662e73d123bf9e,nelilen@hotmail.fr
+"Sun, 03 Mar 2019 21:34:45 UTC",550,Message was not accepted -- invalid mailbox.  Local mailbox nell94@bk.ru is unavailable: account is disabled,281cd3d7177ba6d55a9e779c5f474a8889a4b764,nell94@bk.ru
+"Wed, 06 Mar 2019 12:03:15 UTC",550,"5.1.1 The email account that you tried to reach does not exist. Please try
+5.1.1 double-checking the recipient's email address for typos or
+5.1.1 unnecessary spaces. Learn more at
+5.1.1  https://support.google.com/mail/?p=NoSuchUser o191si833804qke.132 - gsmtp",52692a9f66692c76ab27492d5c48f70144a7e8d3,niyongereajamal@gmail.com
+"Sun, 18 Aug 2019 12:05:41 UTC",550,5.1.1 User Unknown,cc000a803b53d6b0a2d2a5f9391e2971291e2b4d,noel.noel.kamdem@eeas.europa.eu
+"Sat, 03 Mar 2018 21:21:20 UTC",554,delivery error: dd This user doesn't have a yahoo.be account (nonore.nonore@yahoo.be) [-5] - mta1166.mail.ir2.yahoo.com,3b5a1d06fd67420d38ae8192aca985855efc5eab,nonore.nonore@yahoo.be
+"Mon, 01 Jul 2019 18:39:12 UTC",550,5.5.0 Requested action not taken: mailbox unavailable. [PU1APC01FT028.eop-APC01.prod.protection.outlook.com],43b347496071e1d642365099e5223b653a4d8bdb,noraaa_1798@hotmail.com
+"Wed, 04 Jul 2018 18:59:51 UTC",550,Requested action not taken: mailbox unavailable,e25d0efcb41d7893d7a04adcbe0e089910698d53,norickpalm@web.de
+"Tue, 07 Aug 2018 12:55:37 UTC",554,delivery error: dd Requested mail action aborted - mta1089.mail.ir2.yahoo.com,16219627155d68c7549d3349d56b9e09252aa5f8,oceanegismo@yahoo.fr
+"Tue, 01 May 2018 18:31:47 UTC",550,5.5.0 Requested action not taken: mailbox unavailable. [VE1EUR02FT028.eop-EUR02.prod.protection.outlook.com],d95086dc0c76e26619f51358828bfa83307c0dea,oceaneluumay@hotmail.com
+"Wed, 22 Apr 2020 14:11:42 UTC",550,5.5.0 Requested action not taken: mailbox unavailable (S2017062302). [BN7NAM10FT068.eop-nam10.prod.protection.outlook.com],c05590b77b465b1b248d6542f00e5f001e2b22c4,olivierithoeck@hotmail.com
+"Sat, 07 Sep 2019 16:57:01 UTC",550,5.5.0 Requested action not taken: mailbox unavailable. [SG2APC01FT040.eop-APC01.prod.protection.outlook.com],d9df558290d61d2240619faaa32863e458b43fa4,omerdddi@hotmail.com
+"Tue, 13 Mar 2018 10:10:04 UTC",554,delivery error: dd This user doesn't have a yahoo.fr account (pascale@yahoo.fr) [-5] - mta1072.mail.ir2.yahoo.com,425a586b15d93d83daf3089d903c02ace8d7f515,pascale@yahoo.fr
+"Sun, 30 Aug 2020 13:34:07 UTC",550,5.5.0 Requested action not taken: mailbox unavailable (S2017062302). [DB8EUR06FT032.eop-eur06.prod.protection.outlook.com],334a447b8a3534071481bbe2a0ba96139dd14ad0,paulettejanssens@hotmail.com
+"Mon, 21 May 2018 13:17:30 UTC",550,5.5.0 Requested action not taken: mailbox unavailable. [SN1NAM01FT028.eop-nam01.prod.protection.outlook.com],cac50163be91807a3e01fadad34f4ecf540d0970,paupau.math@hotmail.com
+"Mon, 22 Jun 2020 06:45:44 UTC",554,delivery error: dd Not a valid recipient - atlas208.free.mail.ir2.yahoo.com,2e2135a5f516633a38fa3fc40ed3690b331fb940,pieroncharlie@yahoo.be
+"Tue, 09 May 2017 11:28:40 UTC",550,"5.1.1 The email account that you tried to reach does not exist. Please try
+5.1.1 double-checking the recipient's email address for typos or
+5.1.1 unnecessary spaces. Learn more at
+5.1.1  https://support.google.com/mail/?p=NoSuchUser k25si9791603qtb.286 - gsmtp",9d70dcf543f8d658551317003057dee9fe37e3e4,pierremerlzt3@gmail.com
+"Sun, 27 Aug 2017 14:37:02 UTC",550,Requested action not taken: mailbox unavailable,e25d0efcb41d7893d7a04adcbe0e089910698d53,quentdef@live.be
+"Mon, 19 Sep 2016 12:34:21 UTC",550,550 Requested action not taken: mailbox unavailable,172c328370634eb090b37c43d0ac2da53896710a,r1blondjav@hotmail.com
+"Fri, 10 Jan 2020 12:35:02 UTC",550,5.1.1 Adresse d au moins un destinataire invalide. Invalid recipient. OFR_416 [416],16bdcfe40e430f0ecd414ab820b30fea81e09aa5,rafael.hoffmann@wanadoo.fr
+"Mon, 04 Jun 2018 21:28:27 UTC",554,delivery error: dd This user doesn't have a yahoo.fr account (robinou@yahoo.fr) [-5] - mta1046.mail.ir2.yahoo.com,5b875d6f59567154b5e783f35eac4bd940f3ae3c,robinou@yahoo.fr
+"Fri, 26 Jun 2020 06:51:59 UTC",554,delivery error: dd Not a valid recipient - atlas207.free.mail.ir2.yahoo.com,c1a376741daa18a1b46c17f3a37e45b61f142728,rochetiepme@yahoo.fr
+"Sun, 01 Sep 2019 14:18:34 UTC",550,5.5.0 Requested action not taken: mailbox unavailable. [HE1EUR04FT015.eop-eur04.prod.protection.outlook.com],07d725d92e5dd5fd111264f2e94034e7e89bff6d,ruben.rmk.swagg@hotmail.fr
+"Wed, 29 May 2019 03:30:39 UTC",550,5.1.1 <sacha@pouleur.be>: Recipient address rejected: User unknown,a8e7eeb0f0a940550c31ade8dafc40e63cedda2b,sacha@pouleur.be
+"Sat, 11 Jul 2020 11:17:31 UTC",554,delivery error: dd Not a valid recipient - atlas213.free.mail.ir2.yahoo.com,0b6e2ea843c0acd240d4f2faf5fd97bf8d000dbf,saintlouisb23@yahoo.fr
+"Thu, 09 May 2019 05:07:00 UTC",550,"5.1.1 The email account that you tried to reach does not exist. Please try
+5.1.1 double-checking the recipient's email address for typos or
+5.1.1 unnecessary spaces. Learn more at
+5.1.1  https://support.google.com/mail/?p=NoSuchUser j20si794567qtj.18 - gsmtp",6b713465800a47f7ca09a406deba7203beb4ca88,salut.catla16@gmail.com
+"Wed, 09 Sep 2020 23:19:24 UTC",554,delivery error: dd Not a valid recipient - atlas104.free.mail.ir2.yahoo.com,989e8e2f11e76381f5f6b78f192ef5dc870a9c6f,saminarnoldvital@yahoo.fr
+"Mon, 12 Jun 2017 15:52:31 UTC",550,"5.1.1 The email account that you tried to reach does not exist. Please try
+5.1.1 double-checking the recipient's email address for typos or
+5.1.1 unnecessary spaces. Learn more at
+5.1.1  https://support.google.com/mail/?p=NoSuchUser h206si3211035oif.28 - gsmtp",ccbcfe08cbefcbaedfa44d7a8895aef55deb0b9a,samira.sbaa14@gmail.com
+"Fri, 06 Jul 2018 04:41:56 UTC",550,"5.1.1 The email account that you tried to reach does not exist. Please try
+5.1.1 double-checking the recipient's email address for typos or
+5.1.1 unnecessary spaces. Learn more at
+5.1.1  https://support.google.com/mail/?p=NoSuchUser m3-v6si880943qkm.98 - gsmtp",051053466f4332a9df7bca4ea8ce5c10daba0600,samira.sbaa2017@gmail.com
+"Fri, 13 Sep 2019 11:13:27 UTC",550,5.5.0 Requested action not taken: mailbox unavailable. [AM5EUR02FT020.eop-EUR02.prod.protection.outlook.com],9afdd36ab8a5518f57d2184f73af502779bab239,samuel.matthys@hotmail.be
+"Sat, 01 Jul 2017 15:19:04 UTC",550,Requested action not taken: mailbox unavailable,e25d0efcb41d7893d7a04adcbe0e089910698d53,sancy106@hotmail.com
+"Wed, 23 Nov 2016 09:03:25 UTC",550,"550 5.1.1 The email account that you tried to reach does not exist. Please try
+5.1.1 double-checking the recipient's email address for typos or
+5.1.1 unnecessary spaces. Learn more at
+5.1.1  https://support.google.com/mail/?p=NoSuchUser u17si14280528otu.99 - gsmtp",08b5aa761fb5538a957ec4a17e3be77dbad2de14,saszkya.schmpaert04@gmail.com
+"Sun, 20 Sep 2020 19:17:54 UTC",554,delivery error: dd Not a valid recipient - atlas208.free.mail.ir2.yahoo.com,2e2135a5f516633a38fa3fc40ed3690b331fb940,sathalargrex@yahoo.fr
+"Mon, 09 Jul 2018 12:32:55 UTC",550,5.1.1 <seba.vda@base.be>: Recipient address rejected: User unknown in virtual alias table,25b826f2598e17e47f866cce44889e72afc17f06,seba.vda@base.be
+"Thu, 22 Aug 2019 17:06:07 UTC",550,Invalid Recipient <simolbr98@libero.it>  [smtp-26.iol.local; LIB_520],abfa6377c5d010a06562e12474ae777dda09ce49,simolbr98@libero.it
+"Mon, 27 Jul 2020 21:08:34 UTC",550,Account disabled / El usuario esta en estado: inactivo,adf8acaf47c1677c0c7962624f435918729668d4,simon.guerin@orange.es
+"Fri, 11 Sep 2020 22:42:02 UTC",550,Requested action not taken: mailbox unavailable,e25d0efcb41d7893d7a04adcbe0e089910698d53,sioullouis62@mail.com
+"Thu, 11 Apr 2019 06:41:22 UTC",554,"delivery error: dd Sorry, your message to sirine.zaghouani@yahoo.com cannot be delivered. This mailbox is disabled (554.30). - mta4384.mail.bf1.yahoo.com",03bc27855e4ea9491e7e69017902869bdbbfaa92,sirine.zaghouani@yahoo.com
+"Thu, 20 Aug 2020 13:54:24 UTC",550,5.5.0 Requested action not taken: mailbox unavailable (S2017062302). [VI1EUR04FT031.eop-eur04.prod.protection.outlook.com],d46fa5e26afb1063bd0b2a7d92e9ee053ee51a3b,siwar-selmi@live.fr
+"Sat, 12 Oct 2019 16:39:34 UTC",550,5.5.0 Requested action not taken: mailbox unavailable. [CO1NAM04FT014.eop-NAM04.prod.protection.outlook.com],ad75fa333e2cfe58787e81542dde1594268aefba,sophie.120@live.ca
+"Tue, 01 May 2018 23:10:07 UTC",550,5.5.0 Requested action not taken: mailbox unavailable. [DB5EUR01FT002.eop-EUR01.prod.protection.outlook.com],a910bdd97de7129fff95b96c422d6054c46e1d6f,starckmartin@live.be
+"Thu, 01 Aug 2019 17:42:43 UTC",554,"delivery error: dd Sorry, your message to stellamaffo@yahoo.fr cannot be delivered. This mailbox is disabled (554.30). - mta1119.mail.ir2.yahoo.com",2a2c3f5782937c8638d3bed8c9095b2920db41aa,stellamaffo@yahoo.fr
+"Thu, 13 Aug 2020 17:07:10 UTC",550,5.5.0 Requested action not taken: mailbox unavailable (S2017062302). [DB8EUR05FT054.eop-eur05.prod.protection.outlook.com],a3c82c5b613c920df4e688f7ad1208a5af9978c2,sweetben@hotmail.be
+"Mon, 06 May 2019 11:04:10 UTC",550,5.5.0 Requested action not taken: mailbox unavailable. [DB5EUR01FT019.eop-EUR01.prod.protection.outlook.com],095223c1ab359be319285338fe6a934fd210f42e,taiga123@hotmail.fr
+"Thu, 05 Mar 2020 19:20:01 UTC",554,"delivery error: dd Sorry, your message to tanidou@yahoo.com cannot be delivered. This mailbox is disabled (554.30). - mta4125.mail.gq1.yahoo.com",b6ff77b11d347afe3a1592d6598158c31949e0b5,tanidou@yahoo.com
+"Fri, 13 Dec 2019 11:36:01 UTC",554,delivery error: dd Requested mail action aborted - mta1061.mail.ir2.yahoo.com,74e1f0e87a10481a670a4fd5ad280f4fe1d19868,tekeualex@yahoo.fr
+"Sun, 18 Aug 2019 06:22:15 UTC",550,5.5.0 Requested action not taken: mailbox unavailable. [BL2NAM02FT059.eop-nam02.prod.protection.outlook.com],45c9dcf75d70ddcaf5a9d862633601d3e84933bc,tessounettezebest@hotmail.com
+"Wed, 04 Jan 2017 04:02:40 UTC",550,550 Requested action not taken: mailbox unavailable,172c328370634eb090b37c43d0ac2da53896710a,test@mail.com
+"Wed, 19 Jul 2017 11:17:38 UTC",550,no mailbox by that name is currently available,3e7313d740e63c9f20ab236ca6c27141f03c126d,test@test.com
+"Mon, 22 Jun 2020 13:13:44 UTC",550,<theo.leonard@inmano.com> rejected: user unknown,2394347806133dfbc760a295324564446a82d072,theo.leonard@inmano.com
+"Mon, 15 Jul 2019 12:11:03 UTC",5.1.10,smtp;550 5.1.10 RESOLVER.ADR.RecipientNotFound; Recipient thierry.bernier@student.uclouvain.be not found by SMTP address lookup,8adfb29aa0167fc856ab1f4fe6e894a90111a7e3,thierry.bernier@student.uclouvain.be
+"Sat, 21 Apr 2018 22:10:51 UTC",550,Requested action not taken: mailbox unavailable,e25d0efcb41d7893d7a04adcbe0e089910698d53,thomasdusoulier29@mail.com
+"Tue, 24 Sep 2019 06:19:46 UTC",550,5.5.0 Requested action not taken: mailbox unavailable. [DB3EUR04FT054.eop-eur04.prod.protection.outlook.com],c7d35d3be6a2c73e0fc939770c3cdaea861c9a01,thomaslebelgecool@hotmail.com
+"Sat, 09 Jun 2018 10:31:28 UTC",550,5.5.0 Requested action not taken: mailbox unavailable. [VI1EUR04FT010.eop-eur04.prod.protection.outlook.com],20cccfd269397b3e1b80398d6b64954e073b2cad,thomaspou@hotmail.com
+"Wed, 02 Oct 2019 03:33:11 UTC",550,"5.1.1 The email account that you tried to reach does not exist. Please try
+5.1.1 double-checking the recipient's email address for typos or
+5.1.1 unnecessary spaces. Learn more at
+5.1.1  https://support.google.com/mail/?p=NoSuchUser m5si16484198qtk.316 - gsmtp",bf51e5e76d7fe1287afdab7b7863717f6eb60dc5,thomsvodb@gmail.com
+"Thu, 14 Jun 2018 09:40:28 UTC",550,5.5.0 Requested action not taken: mailbox unavailable. [HE1EUR02FT061.eop-EUR02.prod.protection.outlook.com],4f8fb2b76cbbac7ecb71cc42610e8f88e8afb25b,ti.tine.belou@live.fr
+"Mon, 28 Aug 2017 16:14:42 UTC",550,"5.1.1 The email account that you tried to reach does not exist. Please try
+5.1.1 double-checking the recipient's email address for typos or
+5.1.1 unnecessary spaces. Learn more at
+5.1.1  https://support.google.com/mail/?p=NoSuchUser u184si664618iod.29 - gsmtp",5d1098a77fd4d9ff27aaa00dadf27c198606d92b,v.geerlant@gmail.com
+"Tue, 02 Jun 2020 07:36:25 UTC",554,delivery error: dd Not a valid recipient - atlas109.free.mail.bf1.yahoo.com,970e10ffc19866360b6591387a2f4fa366968916,valentinmoeris@yahoo.com
+"Thu, 06 Jun 2019 11:07:55 UTC",554,delivery error: dd Requested mail action aborted - mta1019.mail.ir2.yahoo.com,c494a22a80f9bdce92478505456903c29750daf2,vanechou@yahoo.fr
+"Sat, 08 Apr 2017 10:13:12 UTC",550,"5.1.1 The email account that you tried to reach does not exist. Please try
+5.1.1 double-checking the recipient's email address for typos or
+5.1.1 unnecessary spaces. Learn more at
+5.1.1  https://support.google.com/mail/?p=NoSuchUser 22si3740257otc.71 - gsmtp",59aa04f02f794eff42f11119f39726512004fa77,vdsndco@gmail.com
+"Tue, 21 Aug 2018 15:10:46 UTC",550,Message was not accepted -- invalid mailbox.  Local mailbox vera0099@mail.ru is unavailable: user is terminated,d8a48132896bab7b1c3a8c9bde7a9e0b8ff3c815,vera0099@mail.ru
+"Tue, 16 Apr 2019 21:53:38 UTC",550,5.5.0 Requested action not taken: mailbox unavailable. [HE1EUR04FT057.eop-eur04.prod.protection.outlook.com],881991fa2679b04e55ca77063f20e4964e7c7720,victoria.treist@hotmail.com
+"Tue, 02 Apr 2019 13:39:50 UTC",550,5.5.0 Requested action not taken: mailbox unavailable. [HK2APC01FT043.eop-APC01.prod.protection.outlook.com],f673958297f53c36971e3e024a628849516f479b,vincent-mazy@hotmail.com
+"Wed, 15 May 2019 11:29:35 UTC",550,5.5.0 Requested action not taken: mailbox unavailable. [DB5EUR03FT033.eop-EUR03.prod.protection.outlook.com],6396c59e7604da7608f3a4d4e8918228a2f7c2b4,walloisflorent@hotmail.fr
+"Wed, 13 Mar 2019 16:53:25 UTC",554,delivery error: dd Requested mail action aborted - mta1139.mail.ir2.yahoo.com,c12f20ab07da799db394b0b82d9c9a74bc0bec3a,william.dollar@yahoo.fr
+"Wed, 02 Oct 2019 15:16:28 UTC",554,delivery error: dd This user doesn't have a yahoo.fr account (x3freinds@yahoo.fr) [-9] - mta1062.mail.ir2.yahoo.com,4dc9d0f5ad5298d6c564dffb2d6184c52b76b4ba,x3freinds@yahoo.fr
+"Tue, 22 May 2018 15:30:02 UTC",550,5.5.0 Requested action not taken: mailbox unavailable. [HE1EUR01FT056.eop-EUR01.prod.protection.outlook.com],45edd74c264be8b572c8d94e9307b3a529ab27c3,yannicksezirahiga@hotmail.fr
+"Sun, 04 Sep 2016 10:48:41 UTC",550,550 Requested action not taken: mailbox unavailable,172c328370634eb090b37c43d0ac2da53896710a,ysabel.caro@mail.com
+"Sun, 15 Jan 2017 12:28:24 UTC",550,550 5.1.1 <ysaline.hostaux@uclouvain.be>: Recipient address rejected: unknown address,55a5d300fb09e123f9f3fb0d150fab2dee1b6f1d,ysaline.hostaux@uclouvain.be
+"Thu, 25 Apr 2019 11:09:19 UTC",550,5.5.0 Requested action not taken: mailbox unavailable. [HE1EUR04FT038.eop-eur04.prod.protection.outlook.com],83d54e81f01733d769c7c455418d4156e2dab5a5,zoe99m@hotmail.be
+"Tue, 13 Nov 2018 08:38:21 UTC",550,5.5.0 Requested action not taken: mailbox unavailable. [PU1APC01FT058.eop-APC01.prod.protection.outlook.com],5d7e367f2729ebf977d8c22b25a0fb8a7c031c3f,zooolou@live.be
